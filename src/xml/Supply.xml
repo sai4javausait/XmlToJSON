@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<supply>
+    <inverntoryOrganizationId>TMSNA_INV_ORG</inverntoryOrganizationId>
+    <itemId>item1</itemId>
+    <productClassId>GOOD</productClassId>
+    <unitOfMeasureId>EACH</unitOfMeasureId>
+    <nodeId>node1</nodeId>
+    <supplyId>PO</supplyId>
+    <arrivalDate>2017-04-01</arrivalDate>
+    <isFinite>false</isFinite>
+    <referenceDetails>
+        <referenceType>PURCHASE_ORDEr</referenceType>
+        <referenceId>po2</referenceId>
+        <referenceLineId>1</referenceLineId>
+    </referenceDetails>
+    <quantity>2</quantity>
+</supply>
