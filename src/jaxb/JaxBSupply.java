@@ -39,6 +39,8 @@ public class JaxBSupply {
 			System.out.println("\n******* Supply.xml to Java Object conversion *******\n");
 			System.out.println("Inventory Id:"+sup.getInverntoryOrganizationId());
 			System.out.println("Item Id:"+sup.getItemId());
+			System.out.println("Product Id:"+sup.getProductClassId());
+			System.out.println("Node Id:"+sup.getNodeId());
 			System.out.println("Unit of Measure:"+sup.getUnitOfMeasureId());
 			System.out.println("Supply Type:"+sup.getSupplyId());
 			System.out.println("Arrival date:"+sup.getArrivalDate());
