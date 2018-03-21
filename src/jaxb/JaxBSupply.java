@@ -20,7 +20,6 @@ public class JaxBSupply {
 		try {
 			JAXBContext jo = JAXBContext.newInstance(Supply.class);
 			Marshaller mx = jo.createMarshaller();
-			
 			mx.setProperty(Marshaller.JAXB_FORMATTED_OUTPUT, true);
 			mx.marshal(sup, System.out);
 			mx.marshal(sup, new File("src\\xml\\Supply.xml"));

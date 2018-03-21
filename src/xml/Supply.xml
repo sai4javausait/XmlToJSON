@@ -10,7 +10,7 @@
     <isFinite>false</isFinite>
     <referenceDetails>
         <referenceType>PURCHASE_ORDEr</referenceType>
-        <referenceId>po2</referenceId>
+        <referenceId123>po2</referenceId123>
         <referenceLineId>1</referenceLineId>
     </referenceDetails>
     <quantity>2</quantity>

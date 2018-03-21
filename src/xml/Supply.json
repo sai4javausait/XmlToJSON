@@ -1,1 +1,16 @@
-{"inverntoryOrganizationId":"TMSNA_INV_ORG","itemId":"item1","productClassId":"GOOD","unitOfMeasureId":"EACH","nodeId":"node1","supplyId":"PO","arrivalDate":"2017-04-01","isFinite":"false","quantity":"2","referenceDetails":{"referenceType":"PURCHASE_ORDEr","referenceId":"po2","referenceLineId":"1"}}
+{"supply": {
+    "itemId": "item1",
+    "productClassId": "GOOD",
+    "quantity": 2,
+    "supplyId": "PO",
+    "inverntoryOrganizationId": "TMSNA_INV_ORG",
+    "unitOfMeasureId": "EACH",
+    "nodeId": "node1",
+    "referenceDetails": {
+        "referenceLineId": 1,
+        "referenceType": "PURCHASE_ORDEr",
+        "referenceId123": "po2"
+    },
+    "arrivalDate": "2017-04-01",
+    "isFinite": false
+}}
